@@ -1,7 +1,7 @@
 <!--
 **rafaelragib/rafaelragib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !-->
-Hello! I'm Ragib Un Nur <img src="https://github.com/rafaelragib/rafaelragib/blob/main/tenor.gif" width="25px">
+## Hello! I'm Ragib Un Nur <img src="https://github.com/rafaelragib/rafaelragib/blob/main/tenor.gif" width="70px">
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<rafaelragib.rafaelragib>&color=<blue>)
 
