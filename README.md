@@ -6,11 +6,15 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=<rafaelragib.rafaelragib>&color=<blue>)
 
 ### About Me
----
-*Computer Science and Engineer from [AUST](http://www.aust.edu)*
 
+* :school: *Computer Science and Engineer from [AUST](http://www.aust.edu)*
+* :microscope: [ResearchGate](https://www.researchgate.net/profile/Ragib_Un_Nur)
+* :page_with_curl: [Resume](https://drive.google.com/file/d/1lnTjDYz6_w3C1SXjAaDogO5Ig8bQYY2N/view?usp=sharing)
 
+### Stats
 
 ![Ragib's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelragib&show_icons=true&theme=vue)
+
+### Frequently Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelragib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
