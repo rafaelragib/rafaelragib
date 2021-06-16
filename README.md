@@ -9,7 +9,7 @@
 
 * :school: *Computer Science and Engineer from [AUST](http://www.aust.edu)*
 * :microscope: [ResearchGate](https://www.researchgate.net/profile/Ragib_Un_Nur)
-* :page_with_curl: [Resume]~~(https://drive.google.com/file/d/1lnTjDYz6_w3C1SXjAaDogO5Ig8bQYY2N/view?usp=sharing)~~ Updated CV will be uploaded
+* :page_with_curl: ~~[Resume]~~(https://drive.google.com/file/d/1lnTjDYz6_w3C1SXjAaDogO5Ig8bQYY2N/view?usp=sharing) Updated CV will be uploaded
 
 ### Stats
 
